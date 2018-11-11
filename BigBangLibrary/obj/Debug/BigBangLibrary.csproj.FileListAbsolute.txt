@@ -1,0 +1,6 @@
+C:\Users\adbhatt\Documents\Xamarin\BigBang\BigBangLibrary\bin\Debug\BigBangLibrary.dll
+C:\Users\adbhatt\Documents\Xamarin\BigBang\BigBangLibrary\bin\Debug\BigBangLibrary.pdb
+C:\Users\adbhatt\Documents\Xamarin\BigBang\BigBangLibrary\obj\Debug\BigBangLibrary.csprojAssemblyReference.cache
+C:\Users\adbhatt\Documents\Xamarin\BigBang\BigBangLibrary\obj\Debug\BigBangLibrary.csproj.CoreCompileInputs.cache
+C:\Users\adbhatt\Documents\Xamarin\BigBang\BigBangLibrary\obj\Debug\BigBangLibrary.dll
+C:\Users\adbhatt\Documents\Xamarin\BigBang\BigBangLibrary\obj\Debug\BigBangLibrary.pdb

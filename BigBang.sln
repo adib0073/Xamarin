@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBang", "BigBang\BigBang.csproj", "{D17F7CFE-2042-479E-AA9D-9C49BDD3DFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBangLibrary", "BigBangLibrary\BigBangLibrary.csproj", "{BA569D76-C54D-4B27-A826-8EAA581A255C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17F7CFE-2042-479E-AA9D-9C49BDD3DFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17F7CFE-2042-479E-AA9D-9C49BDD3DFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17F7CFE-2042-479E-AA9D-9C49BDD3DFAA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D17F7CFE-2042-479E-AA9D-9C49BDD3DFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17F7CFE-2042-479E-AA9D-9C49BDD3DFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17F7CFE-2042-479E-AA9D-9C49BDD3DFAA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BA569D76-C54D-4B27-A826-8EAA581A255C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA569D76-C54D-4B27-A826-8EAA581A255C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA569D76-C54D-4B27-A826-8EAA581A255C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA569D76-C54D-4B27-A826-8EAA581A255C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87033AF4-782A-49BD-BD76-FE8679A7E138}
+	EndGlobalSection
+EndGlobal

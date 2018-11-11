@@ -1,0 +1,2 @@
+C:\Users\adbhatt\Documents\Xamarin\BigBang\BigBang\obj\Release\MonoAndroid44\BigBang.csprojAssemblyReference.cache
+C:\Users\adbhatt\Documents\Xamarin\BigBang\BigBang\obj\Release\MonoAndroid44\res.flag
